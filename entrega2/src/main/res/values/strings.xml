@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entrega2</string>
+    <string name="lblBienvenida">Estás logueado en la APP</string>
+    <string name="btnLogOut">Cerrar Sesión</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">347051835698574</string>
+    <string name="fb_login_protocol_scheme">fb347051835698574</string>
+</resources>
